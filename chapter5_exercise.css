@@ -14,6 +14,7 @@ header {
   border-bottom: 1px solid #000000;
   padding: 15px 0;
   text-align: center;
+  margin: 0 auto;
 }
 
 .nav-list-item {
@@ -68,7 +69,7 @@ main {
 .box7 {
   width: 200px;
   height: 200px;
-  background-color: #effa5;
+  background-color: #e9ffa5;
 }
 
 .box8 {
@@ -99,6 +100,7 @@ main {
   width: 200px;
   height: 200px;
   background-color: #8eb8ff;
+}
 
 footer {
   width: 100%;
